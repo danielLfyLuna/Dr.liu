@@ -1,0 +1,8 @@
+.activityTitleOutside > .ant-tooltip-content {
+  & > .ant-tooltip-arrow {
+    border-right-color: #fff;
+  }
+  & > .ant-tooltip-inner {
+    background: #fff;
+  }
+}

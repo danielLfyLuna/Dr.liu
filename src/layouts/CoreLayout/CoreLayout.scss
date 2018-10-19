@@ -1,0 +1,37 @@
+.ant-back-top {
+  bottom: 150px;
+  right: 32px;
+}
+
+.hoolai-gm-user-tree-select > span {
+  height: 5.4rem;
+  overflow-y: auto;
+}
+
+.cascaderMenu {
+  height: 250px
+}
+
+.cascaderMenu > div {
+  height: 250px
+}
+
+.cascaderMenu > div > ul {
+  height: 250px
+}
+
+.ModalLongName > div > div.ant-modal-content {
+  min-height: 400px
+}
+
+.messageCascaderMenu {
+  padding-right: 10px
+}
+
+//国际化菜单删除左边距
+// .deepMenu > li > ul > li {
+//   padding-left: 30px !important;
+//   & > a > span {
+//     font-size: 11px;
+//   }
+// }
