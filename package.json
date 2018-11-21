@@ -89,7 +89,7 @@
     "type": "git",
     "url": ""
   },
-  "author": "edward <edward56833517@gmail.com> (https://github.com/edwardxyt)",
+  "author": "daniel",
   "license": "WTFPL",
   "dependencies": {
     "antd": "^2.13.6",

@@ -4,7 +4,7 @@ import enMessages from './locales/en-US.json'
 
 const appLocale = {
   messages: {
-    ...enMessages,
+    ...enMessages
   },
   antd: antdEn,
   locale: 'en-US',

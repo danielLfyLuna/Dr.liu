@@ -3,7 +3,7 @@ import enMessages from './locales/zh-CN.json'
 
 const appLocale = {
   messages: {
-    ...enMessages,
+    ...enMessages
   },
   antd: null,
   locale: 'zh-CN',

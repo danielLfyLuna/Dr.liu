@@ -4,7 +4,7 @@ import viMessages from './locales/vi-VN.json'
 
 const appLocale = {
   messages: {
-    ...viMessages,
+    ...viMessages
   },
   antd: antdVi,
   locale: 'vi-VN',
