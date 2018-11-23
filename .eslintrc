@@ -16,6 +16,8 @@
     "browser" : true
   },
   "globals": {
+    "__IP__"      : false,
+    "__HOST__"      : false,
     "__DEV__"      : false,
     "__TEST__"     : false,
     "__PROD__"     : false,

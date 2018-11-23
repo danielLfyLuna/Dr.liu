@@ -1,4 +1,5 @@
 /* eslint key-spacing:0 spaced-comment:0 */
+/* global ROOT_PATH */
 const path = require('path')
 const debug = require('debug')('app:config-index')
 const argv = require('yargs').argv
