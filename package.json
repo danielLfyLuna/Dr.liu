@@ -1,7 +1,7 @@
 {
   "name": "gm-web",
   "version": "0.0.1",
-  "description": "胡莱三国2管理台",
+  "description": "xxx",
   "main": "bin/server",
   "bin": {
     "build": "./bin/build.js"
